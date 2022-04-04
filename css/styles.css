@@ -44,7 +44,7 @@ body {
 }
 
 .row > div > article {
-	background-color: white;
+	background-color: lightgray;
 	text-align: justify;
 	margin-bottom: 20px;
 	padding: 12px;
